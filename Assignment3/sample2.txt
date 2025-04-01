@@ -1,0 +1,6 @@
+Replaced 'Java' with 'Java' in 'sample.txt' successfully!
+
+Updated File Content:
+
+Java is fun!
+Learning Java is easy.
